@@ -1,7 +1,7 @@
 
 
 # TensorFlow-Object-Detection
-#### This is a slightly modified version of object_detection_tutorial of TensorFlow original documentation but for live object detection.
+#### This is a slightly modified version of object_detection_tutorial of TensorFlow official documentation but for live object detection.
 
 ### The required depenendcies: 
 -Python
